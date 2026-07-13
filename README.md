@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mynkpandey/My-Leetcode/tree/master/0049-group-anagrams) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/mynkpandey/My-Leetcode/tree/master/0367-valid-perfect-square) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/mynkpandey/My-Leetcode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
