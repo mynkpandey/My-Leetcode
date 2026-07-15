@@ -23,8 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/mynkpandey/My-Leetcode/tree/master/0367-valid-perfect-square) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/mynkpandey/My-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/mynkpandey/My-Leetcode/tree/master/0367-valid-perfect-square) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/mynkpandey/My-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
