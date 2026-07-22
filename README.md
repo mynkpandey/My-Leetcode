@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/mynkpandey/My-Leetcode/tree/master/0049-group-anagrams) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mynkpandey/My-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2540-minimum-common-value](https://github.com/mynkpandey/My-Leetcode/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mynkpandey/My-Leetcode/tree/master/0049-group-anagrams) |
+| [2540-minimum-common-value](https://github.com/mynkpandey/My-Leetcode/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/mynkpandey/My-Leetcode/tree/master/0367-valid-perfect-square) |
+| [2540-minimum-common-value](https://github.com/mynkpandey/My-Leetcode/tree/master/2540-minimum-common-value) |
 ## Number Theory
 |  |
 | ------- |
@@ -43,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/mynkpandey/My-Leetcode/tree/master/0191-number-of-1-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [2540-minimum-common-value](https://github.com/mynkpandey/My-Leetcode/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->
